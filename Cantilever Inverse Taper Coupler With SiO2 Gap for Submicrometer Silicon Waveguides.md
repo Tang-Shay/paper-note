@@ -57,6 +57,10 @@ MFD（Mode Field Diameter）模场直径；
 
 PECVD（plasma enhanced chemical vapor deposition）等离子增强的化学蒸发沉积
 
+https://wenku.baidu.com/view/8851fc09763231126edb11a4.html?from=rec&type=onlyLink
+
+https://wenku.baidu.com/view/e215c76ba98271fe910ef926.html?from=related
+
 ​       -- 作用：在硅片表面镀上一层深蓝色的氮化硅膜，可以充分吸收太阳光，降低反射，并且氮化硅膜有钝化的作用，保护电池片不受污染。
 
 ​      -- 原理：利用硅烷SiH4与氨气NH3在等离子体中反应，生成Si3N4沉积到硅片表面。
@@ -100,6 +104,15 @@ PECVD（plasma enhanced chemical vapor deposition）等离子增强的化学蒸�
         数据：10米SiO2间隙在垂直方向上的3dB失调容差提高到2.5米。
   
         存在的不足：由于SiO2间隙导致的TE模式失调容差改善无法观察。
+  
+  
+  3. 针对10.5m的输入光斑尺寸，它代表了标准单模光纤的使用。
+  
+     10.5m输入光斑尺寸的耦合器宽度从6米增加到8米，以确保最小的耦合损耗。
+  
+     耦合损耗随着氧化硅间隙长度的增加而降低，直到达到最佳值。--最佳长度：TE~15m，TM~22m
+  
+     10.5m的输入光斑尺寸，硅氧间隙对失调容差没有显著影响，但对耦合损耗有显著改善。
 
 ### 4. Fabrication
 
