@@ -74,7 +74,9 @@ https://wenku.baidu.com/view/e215c76ba98271fe910ef926.html?from=related
 
 - 研究方法：三维时域有限差分模拟 a 3D Finite Difference Time Domain 
 
-- 1550nm高斯模式源在耦合器面发射，并作为输入源           A 1550nm Gaussian mode source is launched at the coupler facet and acts as an input source.
+- 1550nm高斯模式源在耦合器面发射，并作为输入源           
+
+  A 1550nm Gaussian mode source is launched at the coupler facet and acts as an input source.
 
 - 研究内容：
 
@@ -97,7 +99,7 @@ https://wenku.baidu.com/view/e215c76ba98271fe910ef926.html?from=related
 
        得到的结论：选择8 m的宽度作为10.5 m输入光斑尺寸的最佳宽度。
      
-  2. 为了研究不同长度的硅氧间隙 对0m和2m水平失调耦合损耗的影响，模拟了为5m输入光斑尺寸设计的6m*6m耦合器。
+  2. 为了研究不同长度的硅氧间隙 对0m和2m水平失调耦合损耗的影响，模拟了为5m输入光斑尺寸设计的6mx6m耦合器。
   
         二者关系：硅氧间隙增加，耦合损耗减小（论文中有数据证明）the SiO2 gap allows improvement in misalignment tolerance； 耦合损耗保持不变或增加时，硅氧间隙长度变化不会有改善。
   
@@ -116,10 +118,47 @@ https://wenku.baidu.com/view/e215c76ba98271fe910ef926.html?from=related
 
 ### 4. Fabrication
 
+制作的方法、程序
 
+- 掩埋氧化硅 buried SiO2
+- 电感耦合等离子体 ICP Inductively Coupled Plasma
+- ICP-RIE
+- 聚甲基丙烯酸甲酯 PMMA
+- 光致抗蚀剂 photoresist
+- 湿法蚀刻 wet etch -- 去除铬
+- 非晶硅 amorphous silicon
+- SF6/C4F8 chemistry
+- 博世工艺 the Bosch process
+- 各向同性刻蚀 isotropic etch
 
 ### 5. Measurement
 
+   介绍了测量方式，并着重根据测量结果得到的图像分析性能指标。
+
+- **概念性名词：**
+
+  - 永磁透镜光纤 polarization maintaining (PM) lensed fiber
+
+      用于产生测量所需的输入光斑尺寸
+
+  - 短硅波导 a short silicon waveguide
+
+  
+
+- **测量方式：**
+
+  coupling loss：由输入端和输出端的光功率差获得；
+
+  misalignment tolerance：使用未对准器micro aligners定位在不同的垂直和水平位置。
+
+- TE模式和TM模式由偏振控制器设置。
+
+- **测量结果：**
+
+  - 对于TE和TM模式，最佳长度的SiO2间隙的引入 改善了coupling loss。
+- 10m长的SiO2间隙的耦合器显示出更好的失调容限，因此对制造缺陷（导致的某些不对称特征 asymmetric characteristics）有更好的容限。
+  - 15mSiO2间隙 为8mx6m耦合器的最佳长度。
+  - 对于8mx8m的对称耦合器尺寸：coupling loss在整个波长范围内都是恒定的；随着波长的增加，TM模式的有所降低。
 
 
 ### 6. Conclusion
