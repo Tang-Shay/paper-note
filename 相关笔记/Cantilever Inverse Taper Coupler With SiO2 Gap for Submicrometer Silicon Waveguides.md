@@ -38,11 +38,15 @@ a cantilever inverse taper coupler with SiO2 gap for coupling optical beam betwe
 
 - 专有名词
 
-PICs（Photonic Integrated Circuits）光激性 光子集成电路；
+  - PICs（Photonic Integrated Circuits）光激性 光子集成电路：基于晶态半导体晶圆集成有源和无源光子电路与单个微芯片上的电子元件。
 
-SOI（Silicon-On-Insulator）硅基绝缘体；
+    目前用于在光网络和通信系统中传输和处理信号。
 
-MFD（Mode Field Diameter）模场直径；
+    主要材料是：半导体（磷酸铟、砷化镓、硅）、电光晶体、及各种类型的玻璃。
+
+  - SOI（Silicon-On-Insulator）硅基绝缘体；
+
+  - MFD（Mode Field Diameter）模场直径；
 
 - 关键句
 
