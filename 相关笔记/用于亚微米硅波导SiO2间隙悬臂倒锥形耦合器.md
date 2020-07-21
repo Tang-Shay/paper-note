@@ -65,7 +65,7 @@ https://wenku.baidu.com/view/8851fc09763231126edb11a4.html?from=rec&type=onlyLin
 
 https://wenku.baidu.com/view/e215c76ba98271fe910ef926.html?from=related
 
-​       -- 作用：在硅片表面镀上一层深蓝色的氮化硅膜，可以充分吸收太阳光，降低反射，并且氮化硅膜有钝化的作用，保护电池片不受污染。
+​       -- 作用：在硅片表面镀上一层深蓝色的氮化硅膜（论文4），可以充分吸收太阳光，降低反射，并且氮化硅膜有钝化的作用，保护电池片不受污染。
 
 ​      -- 原理：利用硅烷SiH4与氨气NH3在等离子体中反应，生成Si3N4沉积到硅片表面。
 
@@ -76,7 +76,7 @@ https://wenku.baidu.com/view/e215c76ba98271fe910ef926.html?from=related
 
 ### 3. Simulation
 
-- 研究方法：三维时域有限差分模拟 a 3D Finite Difference Time Domain 
+- 研究方法：三维时域有限差分模拟 a 3D Finite Difference Time Domain （论文4：有限元法）
 
 - 1550nm高斯模式源在耦合器面发射，并作为输入源           
 
